@@ -1,0 +1,105 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.click-button{
+    text-decoration: none;
+    background-image:linear-gradient(#f10c2b,rgb(243, 10, 80));
+    padding: 5px 25px;
+    color: rgb(245, 231, 231);
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+.size-area{
+    width: 40%;
+    padding-left: 5%;
+    padding-right: 10%;
+    padding-top: 10px;
+}
+
+.size-area img{
+    width: 85%;
+    padding-bottom: 10px;
+    width: 350px;
+    height: 300px;
+    background: blue;
+    transition: width 1s;
+    
+}
+.size-area img:hover{
+    width: 400px;
+
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 50px;
+    background-color: blue;
+    
+}
+h1{
+    color: white;
+    font-size: 30px;
+}
+.neymar{
+    width: 21%;
+    height: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-radius: 5px;
+    box-shadow: 10px 10px 15px gray;
+        
+}
+    .neymar img{
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        padding: 5px 5px 5px;
+        width: 200px;
+        height: 150px;
+    }
+    .flexible-container{
+        display: flex;
+        margin-bottom: 50px;
+    }
+    .flexible-player{
+        display: flex;
+    margin-bottom: 50px;
+    background-color: white;
+    }
+    .laptop{
+        color: black;
+        font-size: 30px;
+    }
+
+    .third-line{
+        display: flex;
+    margin-bottom: 50px;
+    }
+
+    .alex-area{
+        width: 40%;
+        padding-left: 5%;
+        padding-right: 10%;
+        padding-top: 10px;
+    }
+    .alex-area img{
+        width: 85%;
+        padding-bottom: 10px;
+        padding-bottom: 10px;
+    }
+    .logos img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        max-width: 400px;
+        max-height: 400px;
+        margin-bottom: 50px;
+        
+    }
+    
+    .papia{
+        text-align: center;
+    }
